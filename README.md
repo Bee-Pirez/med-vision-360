@@ -28,7 +28,7 @@ registrados pelas instituições, poderiam conduzir aulas ao vivo, compartilhand
 conhecimento em tempo real e proporcionando interação direta com os
 alunos;
 - Integração com Med Vision (Futuros Óculos Inteligentes): Nossa plataforma
-terá integração com óculos para gravação (que estão sendo testados e
+teria integração com óculos para gravação (que estão sendo testados e
 idealizados, com uma webcam encaixada em um óculos), permitindo,
 futuramente, que professores gravem procedimentos médicos em tempo real,
 proporcionando, uma experiência de aprendizado imersiva para os alunos.
