@@ -3,7 +3,7 @@
 <p>Um projeto frontend desenvolvido para o desafio Global Solution da Graduação na Fiap em Sistemas para Internet</p>
 
 ### Deploy
-https://main--polite-cat-9ced4f.netlify.app/
+https://medvision.vercel.app/
 
 ## 💡 Informações do projeto
 
