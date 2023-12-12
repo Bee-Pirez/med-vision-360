@@ -55,6 +55,8 @@ utilização do site por usuários com deficiências cognitivas.
 - [React]
   - Framework Front-End Javascript
   - Uso dos Hooks
+- [Vite]
+  - Biblioteca que ajuda com o processo de build de aplicações web
 - [Javascript])
 - [React Router]
   - Roteador do React
