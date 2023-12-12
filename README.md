@@ -54,7 +54,7 @@ utilização do site por usuários com deficiências cognitivas.
 
 - [React]
   - Framework Front-End Javascript
-  - Uso so Hooks
+  - Uso dos Hooks
 - [Javascript])
 - [React Router]
   - Roteador do React
